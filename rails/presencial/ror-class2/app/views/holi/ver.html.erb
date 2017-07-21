@@ -1,0 +1,12 @@
+<table>
+  <tr>
+    <td><h1><%= @id %></h1></td>
+    <td><h1><%= @name %></h1></td>
+    <td><h1><%= @precio %></h1></td>
+  </tr>
+</table>
+
+<!-- <%= render 'minicart'%> -->
+<%= render 'minicart', products: @products %> 
+
+<%= link_to("Go to Products", products_path ) %>

@@ -1,0 +1,29 @@
+.producto{
+  text-align: center
+
+}
+.producto img{
+  height: 400px;  
+}
+
+.precio-producto{
+  font-size: 20px;
+}
+
+.carrito{
+  margin: 100px 0 100px 0;
+  border:  1px solid #bebebe;
+  padding: 20px;
+}
+.carrito h1{
+  color: #0060b9;
+}
+
+
+.productos-carrito{
+
+}
+
+.productos-carrito img{
+  height: 100px;
+}

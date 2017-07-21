@@ -1,0 +1,22 @@
+
+<form action="/orders" method="GET">
+<label for="search">
+Ingrese el Id: 
+	<input type="text" name="search">
+</label>
+</form>
+
+
+ <h2>Esta es su info privada</h2>
+ <table>
+ 	<tr>
+ 		<td>ID:</td>
+ 		<td>Nombre:</td>
+ 		<td>Correo:</td>
+ 	</tr>
+ 	<tr>
+ 		<td><%= @busqueda[:id] %></td>
+ 		<td><%= @busqueda[:nombre] %></td>
+ 		<td><%= @busqueda[:correo] %></td>
+ 	</tr>
+ </table>

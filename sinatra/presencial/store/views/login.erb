@@ -1,0 +1,11 @@
+
+
+<% if @login_user %>
+	<p> Hola <%= @login_user %></p>
+<% end %>
+
+<form action="/login" method="POST">
+	<input type="email" name="email">
+	<input type="password" name="pass">
+	<input type="submit" value="Login">
+</form>

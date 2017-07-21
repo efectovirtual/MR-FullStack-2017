@@ -1,0 +1,30 @@
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <h1>Salidas Internacionales</h1>
+
+      <table class="table flights">
+        <thead>
+          <tr>
+            <th>Airline</th>
+            <th>Flight</th>
+            <th>Status</th>
+            <th class="text-center">Time</th>
+            <th class="text-center">Gate</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% @departures.each do |departure| %>
+          <tr class="<%= departure_class(departure) %>">
+            <td class="airline-logo"><img src="<%= departure.airline.logo_url %>" /></td>
+            <td><%= departure.flight.number %></td>
+            <td><%= departure.str_status %></td>
+            <td class="text-center"><%= l departure.date, format: '%H:%M' %></td>
+            <td class="text-center"><%= departure.gate %></td>
+          </tr>
+          <% end %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

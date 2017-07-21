@@ -1,0 +1,98 @@
+body{
+  background: #ececec;
+}
+
+#pifi{
+  text-align: center;
+  font-size: 25px;
+  color: #0058c5;
+  margin: 30px 0;
+  font-weight: 200;
+}
+
+.bgjuego div{
+  border: 1px solid #bebebe;
+  font-size: 20px;
+  font-weight: 200;
+}
+
+
+.bgjuego > div{
+  margin-bottom: -2px;
+}
+
+.infog > div{
+  font-weight: 800;
+  font-size: 22px;
+}
+
+.bgGanastes{
+  z-index: 999;
+  background: rgba(0, 0, 0, .85);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.infoGanastes{
+  text-align: center;
+
+     width:500px;
+     height:180px;
+     position:absolute;
+     left:50%;
+     top:40%;
+     margin:-90px 0 0 -250px;
+}
+
+.infoGanastes h1{
+  font-size: 100px;
+  font-weight: 100;
+  color: #fff;
+}
+
+.infoGanastes p{
+  font-size: 30px;
+  color: #fff;
+}
+
+
+.bgGanastes{
+  display: none;
+}
+
+.mostrarGanastes{
+  display: block;
+}
+
+.erroresDatos{
+  color: #f42150;
+  font-size: 15px !important;
+  font-weight: 700 !important;
+  border: 0px !important;
+  padding-bottom: 20px;
+}
+
+
+.bgjuego{
+  background: #fff;
+  padding: 50px;
+}
+
+@media screen and (max-width: 600px) { 
+
+  .infoGanastes h1{
+    font-size: 50px;
+  }
+
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+html{
+	font-family: 'Roboto', sans-serif;
+	background: url(jaguar-xe.jpg) no-repeat center center fixed; 
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	color: #fff;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.contenido{
+	max-width: 470px;
+	background: rgb(0,0,0,.7);
+	border-radius: 10px;
+	padding: 30px;
+	margin-top: 70px;
+	margin-left: 70px;
+	margin-right: 70px;
+
+}
+
+.contenido p{
+	text-align: justify;
+}
+
+.contenido h1{
+	padding: 0;
+	margin: 0;
+}
+
+.boton{
+	text-align: center;
+	background: #DB3030;
+	border-radius: 5px;
+	width: 150px;
+	padding: 10px;
+}
+
+.contenido a{
+	color: #fff;
+	text-decoration: none;
+}
+
+@media (max-width: 600px){
+
+	.contenido{
+		margin-top: 30px;
+		margin-left: 30px;
+		margin-right: 30px;
+	}
+
+}
+

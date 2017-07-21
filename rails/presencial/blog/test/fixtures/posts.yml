@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+hola_mundo:
+  title: 'Hola testing'
+  content: 'Es un nuevo post 001'
+  user: simon
+
+Chao_rails:
+  title: 'Chao Rails'
+  content: 'Nuevo post chao rails'
+  user: alberto

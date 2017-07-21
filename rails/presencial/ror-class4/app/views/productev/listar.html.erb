@@ -1,0 +1,31 @@
+<style>
+  td{
+    width: 150px;
+    text-align: center;
+  }
+</style>
+
+<h1>Listar</h1>
+
+<table>
+  <tr>
+    <td>Sku</td>
+    <td>Cantidad</td>
+    <td>Nombre</td>
+    <td>Precio</td>
+  </tr>
+
+  
+
+<%  @product.each do |pro|%>
+<tr>
+  <td><%= pro.sku %></td>
+  <td><%= pro.quantity %></td>
+  <td><%= pro.name %></td>
+  <td><%= pro.price %></td>
+</tr>
+  
+<% end %>
+
+
+</table>

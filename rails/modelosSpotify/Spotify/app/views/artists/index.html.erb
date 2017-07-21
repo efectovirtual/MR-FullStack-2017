@@ -1,0 +1,25 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h1>Artists</h1>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="row">
+
+    <% @artist.each do |a| %>
+
+      <div class="col-lg-3 text-center artists-frame">
+        <img class="img-thumbnail" src="<%= a.image_url %>" alt="<%= a.name %>">
+        <h2><%= a.name %></h2>
+        <!-- <button type="button" class="btn btn-primary">Ver más</button> -->
+          <%= link_to "Ver más", artist_path(a), :class => "btn btn-primary" %>
+      </div>
+
+    <% end %>
+
+  </div>
+</div>

@@ -1,0 +1,26 @@
+
+<%# form_tag '/search', method: 'get' do %>
+<%= form_tag search_path, method: 'get' do %>
+
+  <%= text_field_tag :email %>
+  <%= submit_tag 'Buscar' %>
+<% end %>
+
+
+<% if @usuario %>
+  <%= @usuario.email %>
+<% end %>
+
+
+<% if @usuario %>
+
+  <h2>Invoices</h2>
+  <% @usuario.invoices.each do |f| %>
+  <br>
+    <%= f.user_id  %> 
+    <%= f.order_id  %> 
+    <%= f.total %> 
+    <%= f.status  %> 
+  <% end %>
+
+<% end %>

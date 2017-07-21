@@ -1,0 +1,14 @@
+@import "bootstrap-sprockets";
+$body-bg: #f5f5f2;
+@import "bootstrap-custom";
+
+h1 { margin-bottom: 30px; }
+
+.flights {
+  font-size: 18px;
+  .airline-logo {
+    width: 300px;
+    img { height: 35px; }
+  }
+  tbody > tr > td { vertical-align: middle; }
+}

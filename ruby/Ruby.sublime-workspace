@@ -1,0 +1,735 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"mart",
+				"margin-top"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"st",
+				"style\t<style>"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"t",
+				"transform"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"colo",
+				"colorCubo"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"color",
+				"colorTexto"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"colorc",
+				"colorCubo1"
+			],
+			[
+				"colorT",
+				"colorTitulo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 172.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/albertorodriguez/Desktop/MakeItReal/ruby"
+	],
+	"file_history":
+	[
+		"/Users/albertorodriguez/Desktop/MakeItReal/ruby/fizzbuzz.rb",
+		"/Users/albertorodriguez/Desktop/MakeItReal/ruby/pocologica.Appraisals",
+		"/Users/albertorodriguez/Desktop/MakeItReal/ruby/fizzbuzz",
+		"/Users/albertorodriguez/Desktop/MakeItReal/ruby/multiplier.rb",
+		"/Applications/MAMP/htdocs/j2t/wp-content/themes/j2t/page-8.php",
+		"/Users/albertorodriguez/Documents/CLIENTES/GMG/J2T/J2T LandingPage/css/jquery.bxslider.css",
+		"/Users/albertorodriguez/Documents/CLIENTES/EFECTO VIRTUAL/1 Codigos/wordpress.php",
+		"/Users/albertorodriguez/Desktop/footer.php",
+		"/Applications/MAMP/htdocs/j2t/wp-content/themes/j2t/functions.php",
+		"/Users/albertorodriguez/Documents/CLIENTES/GMG/J2T/J2T LandingPage/index.html",
+		"/Applications/MAMP/htdocs/j2t/wp-content/themes/j2t/header.php",
+		"/Applications/MAMP/htdocs/j2t/wp-content/themes/j2t/css/jquery.bxslider.css",
+		"/Applications/MAMP/htdocs/j2t/wp-content/themes/j2t/page.php",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo/style.css",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo/single.php",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo/template-blog.php",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo/woocommerce/archive-product.php",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo/woocommerce/single-product.php",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo/archive.php",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo/page.php",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo/functions.php",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo/searchform.php",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo/inc/accesspress-function.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/js/scriptsweb.js",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo/js/scripts.js",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo/footer.php",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo/style-surtistereo.css",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/scss/_custom.scss",
+		"/Users/albertorodriguez/Desktop/ruby/ruby.rb",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo/header.php",
+		"/Users/albertorodriguez/Desktop/EfectoVirtual-dyd/inc/accesspress-function.php",
+		"/Users/albertorodriguez/Desktop/EfectoVirtual-dyd/style.css",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/accesspress-store/inc/customizer/general-settings/general-setting.php",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/accesspress-store/header.php",
+		"/Users/albertorodriguez/Documents/CLIENTES/Unireformada/POPUP/codigo.html",
+		"/Users/albertorodriguez/Desktop/portafolio/style.css",
+		"/Users/albertorodriguez/Desktop/portafolio/index.html",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/scss/_custom.scss",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/scss/app.scss",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/functions.php",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/footer.php",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/header.php",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/front-page.php",
+		"/Users/albertorodriguez/Desktop/index.html",
+		"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/accesspress-store/functions.php",
+		"/Applications/MAMP/htdocs/surti2013/configuration.php",
+		"/Users/albertorodriguez/Desktop/front-page.php",
+		"/Users/albertorodriguez/Desktop/repro-ramas/archivo1.txt",
+		"/Users/albertorodriguez/Desktop/mi-primer-repo/.git/COMMIT_EDITMSG",
+		"/Users/albertorodriguez/Desktop/mi-primer-repo/archivo1.txt",
+		"/Users/albertorodriguez/Desktop/mi-primer-repo2/.git/COMMIT_EDITMSG",
+		"/Users/albertorodriguez/Desktop/MakeItReal/bootstrap/1-hellowork.html",
+		"/Users/albertorodriguez/Desktop/mi-primer-repo/index.html",
+		"/Users/albertorodriguez/Desktop/gmg/page-4.php",
+		"/Users/albertorodriguez/Desktop/MakeItReal/Bootstrack/1-hellowork.html",
+		"/Users/albertorodriguez/Desktop/page-4.php",
+		"/Users/albertorodriguez/Desktop/fev.php",
+		"/Users/albertorodriguez/Desktop/header.php",
+		"/Users/albertorodriguez/Desktop/style.css",
+		"/Users/albertorodriguez/Desktop/default.php",
+		"/Users/albertorodriguez/Desktop/scriptsweb.js",
+		"/Users/albertorodriguez/Documents/CLIENTES/EFECTO VIRTUAL/Plantilla Web JPG/index.html",
+		"/Users/albertorodriguez/Documents/CLIENTES/EFECTO VIRTUAL/Plantilla Web JPG/estilo.css",
+		"/Users/albertorodriguez/Documents/CLIENTES/Arteestudio/Carnet 2017/contactos.txt",
+		"/Users/albertorodriguez/Desktop/programas.css",
+		"/Users/albertorodriguez/Desktop/index.php",
+		"/Users/albertorodriguez/Desktop/functions.php",
+		"/Users/albertorodriguez/Desktop/mail-apply.php",
+		"/Users/albertorodriguez/Desktop/j-forms.js",
+		"/Users/albertorodriguez/Desktop/gmg/ev-form/fonts/FontAwesome.otf",
+		"/Users/albertorodriguez/Downloads/DBApply.sql",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/front-page.php",
+		"/Users/albertorodriguez/Desktop/EfectoVirtual-GMG/front-page.php",
+		"/Users/albertorodriguez/Desktop/EfectoVirtual-GMG/fev.php",
+		"/Users/albertorodriguez/Desktop/gmgAPPLY/fev.php",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/template-parts/content-cursos.php",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/template-parts/content-search.php",
+		"/Applications/MAMP/htdocs/apply/wp-content/themes/gmg/page-4.php",
+		"/Users/albertorodriguez/Documents/CLIENTES/EFECTO VIRTUAL/Ayuda Codigos/wordpress.php",
+		"/Applications/MAMP/htdocs/gmg/pay/index.php",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/cursos.php",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/taxonomy-cursos.php",
+		"/Users/albertorodriguez/Desktop/cursos.php",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/cursos-especializados.php",
+		"/Applications/MAMP/htdocs/apply/wp-content/themes/gmg/functions.php",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/style.css",
+		"/Users/albertorodriguez/Desktop/page.php",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/demo.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/header.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/page.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/single.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/template-parts/slider.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/functions.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/scss/_settings.scss",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/scss/codigo - Paginas Internal.html",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/404.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/archive.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/scss/app.scss",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/search.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/template-parts/header-interno.php",
+		"/Users/albertorodriguez/Desktop/Funmover/efectovirtual-ev/page.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/footer.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/img/noticia1.jpg",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/node_modules/browser-sync/lib/internal-events.js",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/gulpfile.js",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/inc/ev.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/style.css",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/frontpage.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/js/app.js",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/scss/_settings.scss",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/css/app.css",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/gulpfile.js",
+		"/Users/albertorodriguez/Downloads/tcpdf_fonts.php",
+		"/Users/albertorodriguez/Downloads/tcpdf_fonts (1).php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/surtistereo/wp-content/themes/efectovirtual-surtistereo",
+			"/Users/albertorodriguez/Desktop/EfectoVirtual-dyd",
+			"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"top",
+			".logo",
+			"top",
+			"logo",
+			"botono",
+			"footer-terms",
+			"$curr_lang",
+			"Footer Terms",
+			"menu",
+			"Footer Terms",
+			"button",
+			"menu",
+			"Custom Post",
+			"Custon Post",
+			"images",
+			"font",
+			"font-f",
+			"font",
+			".headerpages .sear",
+			".headerpages .search-",
+			".headerpages .search-form",
+			" columns",
+			"col-md-",
+			" \"",
+			"medium-",
+			"columns",
+			"a(0, 0,",
+			"#E34546",
+			"#0053C5",
+			"containerslider",
+			"about-us-bg.jpg",
+			"icontop",
+			"search-form",
+			".headerpages .search-form",
+			".login-woocommerce",
+			"headertwo-wrap",
+			"icontop",
+			"account",
+			"login-woocommerce",
+			"login",
+			"log",
+			"categoriaproductos",
+			".search-form",
+			"px !important",
+			"!impo",
+			"300px",
+			"search-form",
+			"woocommerce",
+			"callto",
+			"search-form",
+			".search-form",
+			"search-form",
+			".home_navigation",
+			"right-header clearfix",
+			".home_navigation",
+			"home_navigation",
+			"col-md-",
+			"search product",
+			"sear",
+			"serat",
+			"!important",
+			"Primary",
+			"primary",
+			"Primary Menu",
+			"primary",
+			"Primary Menu",
+			"menu",
+			"logoss",
+			"img/",
+			"url(img/",
+			"infosurtistereo",
+			"info-surtistereo.jpg",
+			"infosurtistereo",
+			"yamaha",
+			"carousel",
+			"0.7",
+			"100%",
+			"150",
+			"para",
+			"clear",
+			"product-widget-1",
+			"300%",
+			"col-sm-3",
+			");\">",
+			"url(",
+			");\"",
+			"img/",
+			"categoriaproductos",
+			"!important",
+			"919191",
+			"fa-search",
+			"headertwo-wrap",
+			"buscardortop",
+			"#site-navigation .menu > li > a",
+			"headertwo-wrap",
+			"main-navigation",
+			"buscardortop",
+			"search-form",
+			"boot",
+			"mastheads",
+			".bx-",
+			".bx-wrapper",
+			"bx-controls-direction",
+			"controls.png",
+			"bx-controls",
+			"bx-has-controls-direction",
+			"bx-controls bx-has-controls-direction",
+			"controls",
+			"EfectoVirtual-dyd",
+			"style.css",
+			"jquery.bxslider.css",
+			"containerslider",
+			".foto",
+			";\n",
+			"clear",
+			"p>",
+			"p",
+			"fev",
+			"ICL_LANGUAGE_CODE",
+			"include",
+			"$curr_lang",
+			"ICL_LANGUAGE_CODE",
+			"fev",
+			"]",
+			"<label>",
+			"#gkMainMenu > div > ul > li > a",
+			"UK",
+			"必填項目"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"col-md-",
+			"",
+			"#053c79",
+			"img-pagestitle.jpg",
+			"111010",
+			"e4e6e8",
+			"2c2e31",
+			"47494c",
+			"4c4f52",
+			"7b7c7e",
+			"262728",
+			"rgba(63,67,69,.9)",
+			"rgba(63,67,69,.5)",
+			"2c2e31",
+			"47494c",
+			"4c4f52",
+			"7b7c7e",
+			"262728",
+			"e4e6e8",
+			"rgba(63,67,69,.9)",
+			"rgba(63,67,69,.5)",
+			"2c2e31",
+			"47494c",
+			"4c4f52",
+			"7b7c7e",
+			"262728",
+			"http://apply.j2tuk.com",
+			"/ac"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Ruby.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"pa",
+				"page-8.php"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"front",
+				"front-page.php"
+			],
+			[
+				"scr",
+				"js/scripts.js"
+			],
+			[
+				"stye",
+				"style-surtistereo.css"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"home",
+				"template-home.php"
+			],
+			[
+				"funct",
+				"functions.php"
+			],
+			[
+				"templa",
+				"template-home.php"
+			],
+			[
+				"cus",
+				"scss/_custom.scss"
+			],
+			[
+				"_cu",
+				"scss/_custom.scss"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"curs",
+				"cursos.php"
+			],
+			[
+				"cursos",
+				"cursos.php"
+			],
+			[
+				"cust",
+				"scss/_custom.scss"
+			],
+			[
+				"scri",
+				"js/scriptsweb.js"
+			],
+			[
+				"sli",
+				"template-parts/slider.php"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"foote",
+				"footer.php"
+			],
+			[
+				"slider",
+				"template-parts/slider.php"
+			],
+			[
+				"slie",
+				"node_modules/browser-sync/lib/internal-events.js"
+			],
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

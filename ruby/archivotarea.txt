@@ -1,0 +1,4 @@
+1,Alberto Rodriguez,true
+2,Monica Sampedro,false
+3,Esteban Rodriguez,false
+4,Olga Diaz,true

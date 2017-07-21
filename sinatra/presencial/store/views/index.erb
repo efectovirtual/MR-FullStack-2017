@@ -1,0 +1,19 @@
+<h1>Products DashBoard</h1>
+
+<table>
+	<thead>
+		<td>Name</td>
+		<td>Price</td>
+		<td>Currency</td>
+	</thead>
+
+	<tbody>
+		<% @products.each do |product| %>
+			<tr>
+				<td> <a href="/product/<%= product[:name] %>"> <%= product[:name] %></td></a>
+				<td> <%= product[:price] %></td></a>
+				<td> <%= product[:currency] %></td></a>
+			</tr>
+		<% end %>
+	</tbody>
+</table>

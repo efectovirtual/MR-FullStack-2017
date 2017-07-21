@@ -1,0 +1,30 @@
+<table>
+  <thead>
+    <tr>
+      <th>Foto</th>
+      <th>Nombre</th>
+      <th>Bio</th>
+      <th>Fecha de nacimiento</th>
+      <th>Lugar de Nacimiento</th>
+      <th>Fecha de fallecimiento</th>
+      <th>Lugar de fallecimiento</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @actors.each do |actor| %>
+      <tr>
+        <td><img src="<%= actor.image_url %>" alt="<%= actor.name %>"></td>
+        <td><%= actor.name %></td>
+        <td><%= actor.bio %></td>
+        <td><%= actor.birth_date %></td>
+        <td><%= actor.birth_place %></td>
+        <% if !actor.alive %>
+          <td><%= actor.death_date %></td>
+          <td><%= actor.death_place %></td>
+        <% end %>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<%= link_to("Crear Actor", new_actor_path) %>

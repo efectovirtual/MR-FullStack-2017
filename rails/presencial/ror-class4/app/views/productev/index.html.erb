@@ -1,0 +1,27 @@
+<h2>Crear Productos</h2>
+
+<form action="productev/crear" method="POST">
+
+  <label for="sky">Sku:
+    <input type="text" name="product[sku]">
+  </label>
+
+  <label for="quantity">Cantidad:
+    <input type="text" name="product[quantity]">
+  </label>
+
+  <label for="name">Nombre:
+    <input type="text" name="product[name]">
+  </label>
+
+  <label for="name">Precio:
+    <input type="text" name="product[price]">
+  </label>
+
+    <input type="submit" value="Crear Productos">
+    <%= hidden_field_tag :authenticity_token, form_authenticity_token %>
+</form>
+
+
+
+

@@ -1,0 +1,23 @@
+
+<table>
+    <tr>
+        <th>Id:</th>
+        <th>Nombre:</th>
+        <th>Precio:</th>
+    </tr>
+    <tbody>
+
+    <% @productos.each do |productos|  %>
+        <tr>
+            <td><%= productos[:id]%></td>
+            <td><%= productos[:nombre]%></td>
+            <td><%= productos[:precio]%></td>
+        </tr>
+    <% end %>
+    
+    </tbody>
+</table>
+
+<%= link_to("Ir al producto", products_path) %>
+<a href="<%= products_path %>">Ir al producto</a>
+

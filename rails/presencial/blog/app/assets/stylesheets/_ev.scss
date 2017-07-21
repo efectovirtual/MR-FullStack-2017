@@ -1,0 +1,29 @@
+ @import url('https://fonts.googleapis.com/css?family=Lato');
+
+ 
+$fuentep: 'Lato', sans-serif;
+$color: #fcbc24;
+$paddingcustom: 10px;
+
+.miclase1 {
+  background: #0062b5;
+  height: 400px;
+  color: #fff;
+  text-align: center;
+  padding: $paddingcustom;
+  font-family: $fuentep;
+}
+
+.miclase1 h2{
+  font-size: 40px;
+  color: $color;
+  text-align: left;
+  font-family: $fuentep;
+}
+
+.miclase2 h2{
+  font-size: 60px;
+  color: $color;
+  text-align: center;
+  font-family: $fuentep;
+}

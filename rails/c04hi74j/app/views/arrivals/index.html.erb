@@ -1,0 +1,30 @@
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <h1>Llegadas Nacionales</h1>
+
+      <table class="table table-hover flights">
+        <thead>
+          <tr>
+            <th>Airline</th>
+            <th>Flight</th>
+            <th>Status</th>
+            <th class="text-center">Time</th>
+            <th class="text-center">Gate</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% @arrivals.each do |arrival| %>
+          <tr class="<%= arrival_class(arrival) %>">
+            <td class="airline-logo"><img src="<%= arrival.airline.logo_url %>" /></td>
+            <td><%= arrival.flight.number %></td>
+            <td><%= arrival.str_status %></td>
+            <td class="text-center"><%= l arrival.date, format: '%H:%M' %></td>
+            <td class="text-center"><%= arrival.gate %></td>
+          </tr>
+          <% end %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
